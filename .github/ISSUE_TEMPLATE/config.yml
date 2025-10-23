@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 General Discussion
+    url: https://github.com/slackdaystudio/gemini-studio-feedback/discussions
+    about: For questions, ideas, or conversations that don't fit a bug/feature template
+  - name: 🌟 Beta II Program
+    url: https://the-gemini-system.com/beta-ii/
+    about: Join our beta program and get a free lifetime membership upgrade!
+  - name: 📚 Gemini System Website
+    url: https://the-gemini-system.com
+    about: Learn more about the Gemini RPG system
