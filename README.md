@@ -31,13 +31,13 @@ We love hearing your ideas! Feature requests help us understand what the communi
 
 [**Request a Feature →**](https://github.com/slackdaystudio/gemini-studio-feedback/issues/new?template=feature_request.md)
 
-## 💬 General Feedback
+## 💬 Join the Community
 
-Not sure if it's a bug or a feature request? Just want to share thoughts? Feel free to:
+Not sure if it's a bug or a feature request? Just want to chat? We have multiple ways to connect:
 
-- Open a [Discussion](https://github.com/slackdaystudio/gemini-studio-feedback/discussions) for open-ended conversations
-- Share your success stories - we love hearing how Gemini Studio helped your game!
-- Ask questions about features or functionality
+- **[Join our Discord Server](https://discord.gg/AWSdEQHwsn)** - Real-time chat, questions, character sharing, and community discussions
+- **[GitHub Discussions](https://github.com/slackdaystudio/gemini-studio-feedback/discussions)** - For longer-form conversations and ideas
+- **Share your success stories** - We love hearing how Gemini Studio helped your game!
 
 ## 🌟 Beta Testing Program
 
@@ -54,6 +54,7 @@ We're building a welcoming, constructive community. Please:
 
 ## 📚 Additional Resources
 
+- **Discord Community**: [discord.gg/AWSdEQHwsn](https://discord.gg/AWSdEQHwsn)
 - **Gemini RPG System**: [the-gemini-system.com](https://the-gemini-system.com)
 - **Gemini Studio Web App**: [beta.the-gemini-system.com](https://beta.the-gemini-system.com)
 - **System Documentation**: Coming soon!

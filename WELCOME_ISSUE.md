@@ -31,7 +31,8 @@ Use the [Bug Report template](https://github.com/slackdaystudio/gemini-studio-fe
 Use the [Feature Request template](https://github.com/slackdaystudio/gemini-studio-feedback/issues/new?template=feature_request.md). Tell us the **problem** you're trying to solve, not just the solution. Context helps us design better features.
 
 ### 💬 **Just Want to Chat?**
-Head to [Discussions](https://github.com/slackdaystudio/gemini-studio-feedback/discussions)! Ask questions, share your characters, talk about your campaigns, suggest wild ideas. This is your community space.
+- **[Join our Discord Server](https://discord.gg/AWSdEQHwsn)** - Real-time chat with the community! Perfect for quick questions, sharing characters, discussing ideas, or just hanging out with fellow Gemini fans.
+- **[GitHub Discussions](https://github.com/slackdaystudio/gemini-studio-feedback/discussions)** - For longer-form conversations and ideas that need some thought.
 
 ### 👍 **Support Existing Ideas?**
 Found an issue or feature request you care about? React with a 👍 and add your use case. We prioritize based on community interest.

@@ -1,6 +1,9 @@
 blank_issues_enabled: true
 contact_links:
-  - name: 💬 General Discussion
+  - name: 💬 Join Our Discord Server
+    url: https://discord.gg/AWSdEQHwsn
+    about: Chat with the community, get help, share characters, and discuss ideas in real-time!
+  - name: 🗨️ General Discussion
     url: https://github.com/slackdaystudio/gemini-studio-feedback/discussions
     about: For questions, ideas, or conversations that don't fit a bug/feature template
   - name: 🌟 Beta II Program
